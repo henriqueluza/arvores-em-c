@@ -41,3 +41,6 @@ gcc
 ./
 ```
 
+## Autor
+
+Henrique Luza dos Santos - Feito como trabalho na matéria Algoritmos de Alta Performance
