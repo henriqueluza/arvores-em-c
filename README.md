@@ -33,12 +33,13 @@ cd arvores-em-c
 3. Compile o programa:
 
 ```
-gcc 
+gcc -std=c99 arvores-em-c.c -o arvores
+
 ```
 
 4. Execute o programa:
 ```
-./
+./arvores
 ```
 
 ## Autor
